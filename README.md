@@ -1,4 +1,4 @@
-# Ghana-Emissions
+# Ghana Emissions
 The Ghana Emissions Repository is a comprehensive analysis that cover valuable insights into the trends and correlations of  emissions in Ghana from 2000 to 2022, highlighting the country’s air pollution
 # Ghana’s Natural Wealth and Emissions:
 Rich in natural resources, precious minerals, and renowned for cocoa production.
